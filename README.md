@@ -17,5 +17,21 @@ Personal collection of wallpapers.
 <img src="wallpaper/evelyn.png" width="300">
 <img src="wallpaper/night_city.jpg" width="300">
 <img src="wallpaper/voilet-gaze.jpg" width="300">
+<img src="wallpaper/red_forest.png" width="300">
+
 
 </p>
+
+---
+
+
+## 🔗 Inspired By
+More collection
+
+👉 https://github.com/vimlinuz/wall-archive  
+👉 https://github.com/D3Ext/aesthetic-wallpapers
+
+---
+
+* All wallpapers are stored in the `wallpaper/` folder
+* This is a growing collection and will be updated over time
