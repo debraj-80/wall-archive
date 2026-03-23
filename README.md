@@ -1,6 +1,6 @@
 # Wallpaper Archive
 
-Personal collection of wallpapers.
+Personal collection of wallpapers
 
 ---
 
